@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StoreApp</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="txt_login_title">Login</string>
+    <string name="txt_placeholder_email_login">Insert youe Email</string>
+    <string name="txt_placeholder_password_login">Insert your password</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="txt_register_title">Register</string>
+    <string name="txt_btn_register">Register</string>
+    <string name="txt_register_confirm_password">Confirm your password</string>
+    <string name="register_screen_back_button_value">Back</string>
+    <string name="register_screen_register_button_value">Register</string>
+    <string name="prefs_name">storeapp.prefs</string>
+    <string name="txt_message_register">Don\'t you have account? </string>
+    <string name="txt_register_here">Register here!!!</string>
+</resources>

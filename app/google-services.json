@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373356215702",
+    "project_id": "storeapp-14d4f",
+    "storage_bucket": "storeapp-14d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373356215702:android:bec562c40df46a025d31b7",
+        "android_client_info": {
+          "package_name": "co.edu.unab.fdam.dp.storeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpC2OzyWGRFCTG8IAFh6vMwUsdQD2oG7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
